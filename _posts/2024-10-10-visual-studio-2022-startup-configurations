@@ -1,0 +1,5 @@
+---
+title: "Visual Studio 2022 - Solution Startup Configurations"
+date: 2024-10-10
+---
+Most Visual Studio devs understand that you can set the startup projects for a solution. As part of some new additions to Visual Studio 2022, you can now save different configurations, and select them from a drop-down now instead of having to reset the config via the dialog.
